@@ -10,7 +10,6 @@ This is our learning repository for practicing Git and GitHub.
 - Commit the changes
 - Push the branch
 - Create a Pull Request
-- Review and merge changes
 
 ## Members
 
